@@ -1,6 +1,6 @@
 const express = require("express");
 const playerRouter = express.Router();
-const playerController = require("./../../controllers/player")
+const playerController = require("../controllers/player")
 
 playerRouter.get("/", playerController.index)
 playerRouter.get("/name/:name", playerController.indexByName)
