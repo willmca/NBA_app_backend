@@ -10,10 +10,7 @@
     "express-generator": "^4.16.1",
     "mongoose": "^5.7.1",
     "node": "^12.10.0",
-    "nodemon": "^1.19.2",
-    "react": "^16.9.0",
-    "react-router": "^5.1.0",
-    "start": "^5.1.0"
+    "nodemon": "^1.19.2"
   },
   "devDependencies": {},
   "scripts": {
