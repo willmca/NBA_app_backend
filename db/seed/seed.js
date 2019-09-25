@@ -21,7 +21,7 @@ Player.find({}).deleteMany({}).then(() => {
         .then( (players) => {
             players.save()
             console.log(players)
-          
+          console.log(newPlayerData)
             
         } )
     })
