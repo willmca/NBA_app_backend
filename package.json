@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "express-generator": "^4.16.1",
     "mongoose": "^5.7.1",
-    "node": "^12.10.0",
+    "node": "^12.7.0",
     "nodemon": "^1.19.2"
   },
   "devDependencies": {},
