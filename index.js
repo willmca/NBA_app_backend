@@ -7,8 +7,8 @@ const applicationRouter = require("./routes/application")
 
 app.use(parser.urlencoded({ extended: true }));
 app.use(parser.json());
-app.use("/", playerRouter)
-// app.use("/", applicationRouter)
+app.use("/api/player", playerRouter)
+app.use("/", applicationRouter)
 
 app.set("port", process.env.PORT || 5000);
 app.listen(app.get("port"), () => 
