@@ -1,3 +1,22 @@
 [
-    {"playerId":"2905","number":0,"name":"John Wall","teamId":"8","place":"Guard","birthday":652546800,"height":193,"weight":88,"photo":"http://nba.win007.com/files/Player/20151029171503.png","nbaAge":9,"salary":"1917"}   
+    {"playerId":"2905","number":0,"name":"John Wall","teamId":"8","place":"Guard","birthday":652546800,"height":193,"weight":88,"photo":"http://nba.win007.com/files/Player/20151029171503.png","nbaAge":9,"salary":"1917"},
+    {"playerId":"61","number":0,"name":"Kobe Bryant","teamId":"2278","place":"Guard","birthday":272649600,"height":198,"weight":96,"photo":"http://nba.win007.com/files/Player/20141028111049.png","nbaAge":20,"salary":"2500"},
+    {"playerId":"193","number":0,"name":"LeBron James","teamId":"1","place":"Forward/Guard","birthday":473184000,"height":203,"weight":113,"photo":"http://nba.win007.com/files/Player/20161013222647.jpg","nbaAge":16,"salary":"3565"},
+    {"playerId":"3542","number":0,"name":"Bradley Beal","teamId":"8","place":"Guard","birthday":741196800,"height":196,"weight":94,"photo":"http://nba.win007.com/files/Player/20151029171355.png","nbaAge":7,"salary":"2543"},
+    {"playerId":"3342","number":0,"name":"Kawhi Leonard","teamId":"29","place":"Forward","birthday":678121200,"height":201,"weight":104,"photo":"http://nba.win007.com/files/Player/20131031005950.jpg","nbaAge":8,"salary":"2311"},
+    {"playerId":"2916","number":0,"name":"Paul George","teamId":"29","place":"Forward","birthday":641574000,"height":206,"weight":102,"photo":"http://nba.win007.com/files/Player/20151029173811.png","nbaAge":9,"salary":"3056"},
+    {"playerId":"3578","number":0,"name":"Damian Lillard","teamId":"25","place":"Guard","birthday":647967600,"height":191,"weight":88,"photo":"http://nba.win007.com/files/Player/20131101053747.jpg","nbaAge":7,"salary":"2798"},
+    {"playerId":"373","number":0,"name":"Dwyane Wade","teamId":"3","place":"Guard","birthday":380044800,"height":193,"weight":100,"photo":"http://nba.win007.com/files/Player/20151028172842.png","nbaAge":16,"salary":"239"},
+    {"playerId":"5822","number":0,"name":"Ja Morant","teamId":"22","place":"Guard","birthday":934214400,"height":191,"weight":79,"photo":"http://nba.win007.com/files/Player/20190621154447.jpg","nbaAge":0,"salary":""},
+    {"playerId":"5821","number":0,"name":"Zion Williamson","teamId":"11","place":"Power Forward","birthday":962812800,"height":201,"weight":127,"photo":"http://nba.win007.com/files/Player/20190621152920.jpg","nbaAge":0,"salary":""},
+    {"playerId":"5169","number":0,"name":"Thomas Bryant","teamId":"8","place":"Center","birthday":870278400,"height":208,"weight":112,"photo":"http://nba.win007.com/files/Player/20181025163030.png","nbaAge":2,"salary":"138"},
+    {"playerId":"1484","number":0,"name":"Kevin Durant","teamId":"4","place":"Forward","birthday":591465600,"height":206,"weight":109,"photo":"http://nba.win007.com/files/Player/20161013223817.jpg","nbaAge":12,"salary":"3000"},
+    {"playerId":"2704","number":0,"name":"Stephen Curry","teamId":"27","place":"Guard","birthday":574272000,"height":191,"weight":86,"photo":"http://nba.win007.com/files/Player/20141028104235.png","nbaAge":10,"salary":"3746"},
+    {"playerId":"3357","number":0,"name":"Klay Thompson","teamId":"27","place":"Guard","birthday":634406400,"height":201,"weight":98,"photo":"http://nba.win007.com/files/Player/20141028104240.png","nbaAge":8,"salary":"1899"},
+    {"playerId":"3410","number":0,"name":"Jimmy Butler","teamId":"3","place":"Forward","birthday":621702000,"height":201,"weight":104,"photo":"http://nba.win007.com/files/Player/20131021122012.png","nbaAge":8,"salary":"2045"},
+    {"playerId":"19","number":0,"name":"Carmelo Anthony","teamId":"14","place":"Forward","birthday":454608000,"height":203,"weight":109,"photo":"http://nba.win007.com/files/Player/20161019173350.jpg","nbaAge":16,"salary":"239"},
+    {"playerId":"2742","number":0,"name":"James Harden","teamId":"21","place":"Guard","birthday":620060400,"height":196,"weight":100,"photo":"http://nba.win007.com/files/Player/20151025110347.png","nbaAge":10,"salary":"3043"},
+    {"playerId":"2716","number":0,"name":"DeMar DeRozan","teamId":"18","place":"Guard","birthday":618418800,"height":201,"weight":100,"photo":"http://nba.win007.com/files/Player/20151028233803.png","nbaAge":10,"salary":"2774"},
+    {"playerId":"2424","number":0,"name":"Russell Westbrook","teamId":"21","place":"Guard","birthday":595267200,"height":191,"weight":91,"photo":"http://nba.win007.com/files/Player/20131101062003.jpg","nbaAge":11,"salary":"3565"},
+    {"playerId":"21","number":0,"name":"Gilbert Arenas","teamId":"2439","place":"Guard","birthday":379094400,"height":193,"weight":98,"photo":"http://nba.win007.com/files/Player/20120325052913.jpg"}
 ]

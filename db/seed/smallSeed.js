@@ -1,8 +1,5 @@
 const Player = require("./../models/Player")
 const PlayerData=require("./../data/lessPlayers.json")
-Player.deleteMany({}).then(() => {
-    Player.create(PlayerData)
-   })
 
 Player.find({}).deleteMany({}).then(() => {
     
