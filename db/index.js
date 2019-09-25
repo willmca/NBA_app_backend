@@ -10,7 +10,6 @@ app.use(parser.json());
 app.use("/api/player", playerRouter)
 app.use("/", applicationRouter)
 
-
-app.set("port", process.env.PORT || 1000);
+app.set("port", process.env.PORT || 5000);
 app.listen(app.get("port"), () => 
 {console.log(`PORT: ${app.get("port")}`)});
