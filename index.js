@@ -7,6 +7,9 @@ const applicationRouter = require("./routes/application")
 
 app.use(parser.urlencoded({ extended: true }));
 app.use(parser.json());
+
+app.use(cors())
+
 app.use("/api/player", playerRouter)
 app.use("/", applicationRouter)
 
