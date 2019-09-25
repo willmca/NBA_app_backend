@@ -16,6 +16,7 @@ Player.find({}).deleteMany({}).then(() => {
         newPlayerData.photo=element.photo;
         newPlayerData.position=element.position
        
+
         Player.create(newPlayerData)
         .then( (players) => {
             players.save()
