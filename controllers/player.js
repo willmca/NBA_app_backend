@@ -18,7 +18,7 @@ destroyByName:(req,res) => {
   }).then(donePlayer => res.json(donePlayer))
 },
 updateByName: (req, res) => {
-    console.log(req.body)
+    // console.log(req.body)
     Player.findOneAndUpdate({
       name: req.params.name
     }, req.body,
@@ -26,6 +26,7 @@ updateByName: (req, res) => {
       .then(newPlayer => res.json(newPlayer))
 },
 create: (req, res) => {
+    console.log(req.body)
     Player.create(req.body)
       .then(newPlayer => {
         res.json(newPlayer)
